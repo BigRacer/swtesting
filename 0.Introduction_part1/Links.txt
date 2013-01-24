@@ -1,0 +1,8 @@
+http://www.software-testing.ru/library/testing/general-testing/124-2008-09-30-07-39-35
+ - о качестве вообще и о качестве программного обеспечени€ в частности
+
+http://www.software-testing.ru/library/testing/general-testing/90-------qa-
+ - QA vs QC vs Testing
+
+http://www.software-testing.ru/library/testing/general-testing/207-2008-10-06-10-05-53
+ - —тратеги€ в тестировании
