@@ -1,0 +1,8 @@
+Требования к программным продуктам
+http://www.dpgrup.ru/software-requirements.htm
+
+Описание требований к программному обеспечению
+http://www.dpgrup.ru/service-requiremenst.htm
+
+Методика составления требований к программному обеспечению (многа букаф ;):
+http://www.webisgroup.ru/services/programming/srs/ieee-830-1998/
