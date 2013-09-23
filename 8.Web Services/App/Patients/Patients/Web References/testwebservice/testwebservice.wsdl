@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="GetPatients">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetPatientsResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetPatientsResult" type="tns:ArrayOfPatient" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfPatient">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="Patient" nillable="true" type="tns:Patient" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="Patient">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="ID" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Name" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SurName" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="AddPatient">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="p" type="tns:Patient" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AddPatientResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="UpdatePatient">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="p" type="tns:Patient" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdatePatientResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="DeletePatient">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="id" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DeletePatientResponse">
+        <s:complexType />
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="GetPatientsSoapIn">
+    <wsdl:part name="parameters" element="tns:GetPatients" />
+  </wsdl:message>
+  <wsdl:message name="GetPatientsSoapOut">
+    <wsdl:part name="parameters" element="tns:GetPatientsResponse" />
+  </wsdl:message>
+  <wsdl:message name="AddPatientSoapIn">
+    <wsdl:part name="parameters" element="tns:AddPatient" />
+  </wsdl:message>
+  <wsdl:message name="AddPatientSoapOut">
+    <wsdl:part name="parameters" element="tns:AddPatientResponse" />
+  </wsdl:message>
+  <wsdl:message name="UpdatePatientSoapIn">
+    <wsdl:part name="parameters" element="tns:UpdatePatient" />
+  </wsdl:message>
+  <wsdl:message name="UpdatePatientSoapOut">
+    <wsdl:part name="parameters" element="tns:UpdatePatientResponse" />
+  </wsdl:message>
+  <wsdl:message name="DeletePatientSoapIn">
+    <wsdl:part name="parameters" element="tns:DeletePatient" />
+  </wsdl:message>
+  <wsdl:message name="DeletePatientSoapOut">
+    <wsdl:part name="parameters" element="tns:DeletePatientResponse" />
+  </wsdl:message>
+  <wsdl:portType name="testwebserviceSoap">
+    <wsdl:operation name="GetPatients">
+      <wsdl:input message="tns:GetPatientsSoapIn" />
+      <wsdl:output message="tns:GetPatientsSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="AddPatient">
+      <wsdl:input message="tns:AddPatientSoapIn" />
+      <wsdl:output message="tns:AddPatientSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdatePatient">
+      <wsdl:input message="tns:UpdatePatientSoapIn" />
+      <wsdl:output message="tns:UpdatePatientSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DeletePatient">
+      <wsdl:input message="tns:DeletePatientSoapIn" />
+      <wsdl:output message="tns:DeletePatientSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="testwebserviceSoap" type="tns:testwebserviceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetPatients">
+      <soap:operation soapAction="http://tempuri.org/GetPatients" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddPatient">
+      <soap:operation soapAction="http://tempuri.org/AddPatient" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdatePatient">
+      <soap:operation soapAction="http://tempuri.org/UpdatePatient" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeletePatient">
+      <soap:operation soapAction="http://tempuri.org/DeletePatient" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="testwebserviceSoap12" type="tns:testwebserviceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetPatients">
+      <soap12:operation soapAction="http://tempuri.org/GetPatients" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddPatient">
+      <soap12:operation soapAction="http://tempuri.org/AddPatient" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdatePatient">
+      <soap12:operation soapAction="http://tempuri.org/UpdatePatient" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeletePatient">
+      <soap12:operation soapAction="http://tempuri.org/DeletePatient" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="testwebservice">
+    <wsdl:port name="testwebserviceSoap" binding="tns:testwebserviceSoap">
+      <soap:address location="http://localhost:63686/WebSite14/testwebservice.asmx" />
+    </wsdl:port>
+    <wsdl:port name="testwebserviceSoap12" binding="tns:testwebserviceSoap12">
+      <soap12:address location="http://localhost:63686/WebSite14/testwebservice.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
