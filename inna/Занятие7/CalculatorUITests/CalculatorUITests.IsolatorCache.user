@@ -1,0 +1,265 @@
+ìhRéh
+√6Ræ6
+(R$"SeleniumTests.Untitled.SetupTest()
++R'%SeleniumTests.Untitled.TeardownTest()
+.R*(SeleniumTests.Untitled.TheUntitledTest()
+1R-+SeleniumTests.Untitled.IsElementPresent(By)
+-R)'SeleniumTests.Untitled.IsAlertPresent()
+6R20SeleniumTests.Untitled.CloseAlertAndGetItsText()
+"	RCaTests.Untitled.SetupTest()
+%
+R!CaTests.Untitled.TeardownTest()
+(R$"CaTests.Untitled.TheUntitledTest()
++R'%CaTests.Untitled.IsElementPresent(By)
+'R#!CaTests.Untitled.IsAlertPresent()
+0R,*CaTests.Untitled.CloseAlertAndGetItsText()
+%R!CalcuTests.Untitled.SetupTest()
+(R$"CalcuTests.Untitled.TeardownTest()
++R'%CalcuTests.Untitled.TheUntitledTest()
+.R*(CalcuTests.Untitled.IsElementPresent(By)
+*R&$CalcuTests.Untitled.IsAlertPresent()
+3R/-CalcuTests.Untitled.CloseAlertAndGetItsText()
+'R#!CalculaTests.Untitled.SetupTest()
+*R&$CalculaTests.Untitled.TeardownTest()
+-R)'CalculaTests.Untitled.TheUntitledTest()
+0R,*CalculaTests.Untitled.IsElementPresent(By)
+,R(&CalculaTests.Untitled.IsAlertPresent()
+5R1/CalculaTests.Untitled.CloseAlertAndGetItsText()
+*R&$CalculatorTests.Untitled.SetupTest()
+-R)'CalculatorTests.Untitled.TeardownTest()
+0R,*CalculatorTests.Untitled.TheUntitledTest()
+3R/-CalculatorTests.Untitled.IsElementPresent(By)
+/R+)CalculatorTests.Untitled.IsAlertPresent()
+8 R42CalculatorTests.Untitled.CloseAlertAndGetItsText()
+,!R(&CalculatorUITests.Untitled.SetupTest()
+/"R+)CalculatorUITests.Untitled.TeardownTest()
+2#R.,CalculatorUITests.Untitled.TheUntitledTest()
+5$R1/CalculatorUITests.Untitled.IsElementPresent(By)
+1%R-+CalculatorUITests.Untitled.IsAlertPresent()
+:&R64CalculatorUITests.Untitled.CloseAlertAndGetItsText()
+''R#!CalculatorUI.Untitled.SetupTest()
+*(R&$CalculatorUI.Untitled.TeardownTest()
+-)R)'CalculatorUI.Untitled.TheUntitledTest()
+0*R,*CalculatorUI.Untitled.IsElementPresent(By)
+,+R(&CalculatorUI.Untitled.IsAlertPresent()
+5,R1/CalculatorUI.Untitled.CloseAlertAndGetItsText()
+%-R!Calculator.Untitled.SetupTest()
+(.R$"Calculator.Untitled.TeardownTest()
++/R'%Calculator.Untitled.TheUntitledTest()
+.0R*(Calculator.Untitled.IsElementPresent(By)
+*1R&$Calculator.Untitled.IsAlertPresent()
+32R/-Calculator.Untitled.CloseAlertAndGetItsText()
+3RCalculator.C.SetupTest()
+!4RCalculator.C.TeardownTest()
+$5R Calculator.C.TheUntitledTest()
+'6R#!Calculator.C.IsElementPresent(By)
+#7RCalculator.C.IsAlertPresent()
+,8R(&Calculator.C.CloseAlertAndGetItsText()
+"9RCalculator.Calcu.SetupTest()
+%:R!Calculator.Calcu.TeardownTest()
+(;R$"Calculator.Calcu.TheUntitledTest()
++<R'%Calculator.Calcu.IsElementPresent(By)
+'=R#!Calculator.Calcu.IsAlertPresent()
+0>R,*Calculator.Calcu.CloseAlertAndGetItsText()
+'?R#!Calculator.Calculator.SetupTest()
+*@R&$Calculator.Calculator.TeardownTest()
+-AR)'Calculator.Calculator.TheUntitledTest()
+0BR,*Calculator.Calculator.IsElementPresent(By)
+,CR(&Calculator.Calculator.IsAlertPresent()
+5DR1/Calculator.Calculator.CloseAlertAndGetItsText()
+)ER%#Calculator.CalculatorUI.SetupTest()
+,FR(&Calculator.CalculatorUI.TeardownTest()
+/GR+)Calculator.CalculatorUI.TheUntitledTest()
+2HR.,Calculator.CalculatorUI.IsElementPresent(By)
+.IR*(Calculator.CalculatorUI.IsAlertPresent()
+7JR31Calculator.CalculatorUI.CloseAlertAndGetItsText()
+-KR)'Calculator.CalculatorUITest.SetupTest()
+0LR,*Calculator.CalculatorUITest.TeardownTest()
+3MR/-Calculator.CalculatorUITest.TheUntitledTest()
+6NR20Calculator.CalculatorUITest.IsElementPresent(By)
+2OR.,Calculator.CalculatorUITest.IsAlertPresent()
+;PR75Calculator.CalculatorUITest.CloseAlertAndGetItsText()
+.QR*(Calculator.CalculatorUITests.SetupTest()
+1RR-+Calculator.CalculatorUITests.TeardownTest()
+4SR0.Calculator.CalculatorUITests.TheUntitledTest()
+7TR31Calculator.CalculatorUITests.IsElementPresent(By)
+3UR/-Calculator.CalculatorUITests.IsAlertPresent()
+<VR86Calculator.CalculatorUITests.CloseAlertAndGetItsText()
+0WR,*CalculatorIU.CalculatorUITests.SetupTest()
+3XR/-CalculatorIU.CalculatorUITests.TeardownTest()
+6YR20CalculatorIU.CalculatorUITests.TheUntitledTest()
+9ZR53CalculatorIU.CalculatorUITests.IsElementPresent(By)
+5[R1/CalculatorIU.CalculatorUITests.IsAlertPresent()
+>\R:8CalculatorIU.CalculatorUITests.CloseAlertAndGetItsText()
+0]R,*CalculatorUI.CalculatorUITests.SetupTest()
+3^R/-CalculatorUI.CalculatorUITests.TeardownTest()
+6_R20CalculatorUI.CalculatorUITests.TheUntitledTest()
+9`R53CalculatorUI.CalculatorUITests.IsElementPresent(By)
+5aR1/CalculatorUI.CalculatorUITests.IsAlertPresent()
+>bR:8CalculatorUI.CalculatorUITests.CloseAlertAndGetItsText()
+5cR1/CalculatorUITests.CalculatorUITests.SetupTest()
+8dR42CalculatorUITests.CalculatorUITests.TeardownTest()
+;eR75CalculatorUITests.CalculatorUITests.TheUntitledTest()
+>fR:8CalculatorUITests.CalculatorUITests.IsElementPresent(By)
+:gR64CalculatorUITests.CalculatorUITests.IsAlertPresent()
+ChR?=CalculatorUITests.CalculatorUITests.CloseAlertAndGetItsText()
+!iR–°—Ñ–¥.Untitled.SetupTest()
+$jR –°—Ñ–¥.Untitled.TeardownTest()
+'kR#!–°—Ñ–¥.Untitled.TheUntitledTest()
+*lR&$–°—Ñ–¥.Untitled.IsElementPresent(By)
+&mR" –°—Ñ–¥.Untitled.IsAlertPresent()
+/nR+)–°—Ñ–¥.Untitled.CloseAlertAndGetItsText()
+%oR!–°—Ñ–¥—Å–≥.Untitled.SetupTest()
+(pR$"–°—Ñ–¥—Å–≥.Untitled.TeardownTest()
++qR'%–°—Ñ–¥—Å–≥.Untitled.TheUntitledTest()
+.rR*(–°—Ñ–¥—Å–≥.Untitled.IsElementPresent(By)
+*sR&$–°—Ñ–¥—Å–≥.Untitled.IsAlertPresent()
+3tR/-–°—Ñ–¥—Å–≥.Untitled.CloseAlertAndGetItsText()
+)uR%#–°—Ñ–¥—Å–≥–¥—Ñ.Untitled.SetupTest()
+,vR(&–°—Ñ–¥—Å–≥–¥—Ñ.Untitled.TeardownTest()
+/wR+)–°—Ñ–¥—Å–≥–¥—Ñ.Untitled.TheUntitledTest()
+2xR.,–°—Ñ–¥—Å–≥–¥—Ñ.Untitled.IsElementPresent(By)
+.yR*(–°—Ñ–¥—Å–≥–¥—Ñ.Untitled.IsAlertPresent()
+7zR31–°—Ñ–¥—Å–≥–¥—Ñ.Untitled.CloseAlertAndGetItsText()
+/{R+)–°—Ñ–¥—Å–≥–¥—Ñ–µ—â–∫.Untitled.SetupTest()
+2|R.,–°—Ñ–¥—Å–≥–¥—Ñ–µ—â–∫.Untitled.TeardownTest()
+5}R1/–°—Ñ–¥—Å–≥–¥—Ñ–µ—â–∫.Untitled.TheUntitledTest()
+8~R42–°—Ñ–¥—Å–≥–¥—Ñ–µ—â–∫.Untitled.IsElementPresent(By)
+4R0.–°—Ñ–¥—Å–≥–¥—Ñ–µ—â–∫.Untitled.IsAlertPresent()
+>ÄR97–°—Ñ–¥—Å–≥–¥—Ñ–µ—â–∫.Untitled.CloseAlertAndGetItsText()
+!ÅRCalcu.Untitled.SetupTest()
+$ÇRCalcu.Untitled.TeardownTest()
+'ÉR" Calcu.Untitled.TheUntitledTest()
+*ÑR%#Calcu.Untitled.IsElementPresent(By)
+&ÖR!Calcu.Untitled.IsAlertPresent()
+/ÜR*(Calcu.Untitled.CloseAlertAndGetItsText()
+;áR6©§®¶ïπÉÈ(CalculatorUITests.CalculatorUITests.Su()(
+=àR8È≤õ©ïπÉÈ*CalculatorUITests.CalculatorUITests.Summ()(
+7âR2.CalculatorUITests.CalculatorUITests.SummTest()(
+KäRF≈”¿±›πÉÈ8CalculatorUITests.CalculatorUITests.multiplicationTest()(
+LãRGÊÁ≈•ﬁπÉÈ9CalculatorUITests.CalculatorUITests.multiplicationTest_()(
+VåRQ¯ØπùﬁπÉÈCCalculatorUITests.CalculatorUITests.multiplicationTest_—É–∫–∫—â–∫()(
+QçRLø∏‘ØﬁπÉÈ>CalculatorUITests.CalculatorUITests.multiplicationTest_error()(@e:\inna\courses\inna\–∑–∞–Ω—è—Ç–∏–µ7\calculatoruitests\class1.cs
+≈1éRø1
++èR&"SeleniumTests.Untitled.SetupTest()(
+.êR)%SeleniumTests.Untitled.TeardownTest()(
+4ëR/+SeleniumTests.Untitled.IsElementPresent(By)(
+0íR+'SeleniumTests.Untitled.IsAlertPresent()(
+9ìR40SeleniumTests.Untitled.CloseAlertAndGetItsText()(
+3îR.*CaTests.Untitled.CloseAlertAndGetItsText()(
+*ïR%!CaTests.Untitled.IsAlertPresent()(
+.ñR)%CaTests.Untitled.IsElementPresent(By)(
+(óR#CaTests.Untitled.TeardownTest()(
+%òR CaTests.Untitled.SetupTest()(
+6ôR1-CalcuTests.Untitled.CloseAlertAndGetItsText()(
+-öR($CalcuTests.Untitled.IsAlertPresent()(
+1õR,(CalcuTests.Untitled.IsElementPresent(By)(
++úR&"CalcuTests.Untitled.TeardownTest()(
+(ùR#CalcuTests.Untitled.SetupTest()(
+8ûR3/CalculaTests.Untitled.CloseAlertAndGetItsText()(
+/üR*&CalculaTests.Untitled.IsAlertPresent()(
+3†R.*CalculaTests.Untitled.IsElementPresent(By)(
+-°R($CalculaTests.Untitled.TeardownTest()(
+*¢R%!CalculaTests.Untitled.SetupTest()(
+;£R62CalculatorTests.Untitled.CloseAlertAndGetItsText()(
+2§R-)CalculatorTests.Untitled.IsAlertPresent()(
+6•R1-CalculatorTests.Untitled.IsElementPresent(By)(
+0¶R+'CalculatorTests.Untitled.TeardownTest()(
+-ßR($CalculatorTests.Untitled.SetupTest()(
+=®R84CalculatorUITests.Untitled.CloseAlertAndGetItsText()(
+4©R/+CalculatorUITests.Untitled.IsAlertPresent()(
+8™R3/CalculatorUITests.Untitled.IsElementPresent(By)(
+2´R-)CalculatorUITests.Untitled.TeardownTest()(
+/¨R*&CalculatorUITests.Untitled.SetupTest()(
+8≠R3/CalculatorUI.Untitled.CloseAlertAndGetItsText()(
+/ÆR*&CalculatorUI.Untitled.IsAlertPresent()(
+3ØR.*CalculatorUI.Untitled.IsElementPresent(By)(
+-∞R($CalculatorUI.Untitled.TeardownTest()(
+*±R%!CalculatorUI.Untitled.SetupTest()(
+1≤R,(SeleniumTests.Untitled.TheUntitledTest()(
+6≥R1-Calculator.Untitled.CloseAlertAndGetItsText()(
+-¥R($Calculator.Untitled.IsAlertPresent()(
+1µR,(Calculator.Untitled.IsElementPresent(By)(
++∂R&"Calculator.Untitled.TeardownTest()(
+(∑R#Calculator.Untitled.SetupTest()(
+!∏RCalculator.C.SetupTest()(
+$πRCalculator.C.TeardownTest()(
+'∫R"Calculator.C.TheUntitledTest()(
+*ªR%!Calculator.C.IsElementPresent(By)(
+&ºR!Calculator.C.IsAlertPresent()(
+/ΩR*&Calculator.C.CloseAlertAndGetItsText()(
+%æR Calculator.Calcu.SetupTest()(
+(øR#Calculator.Calcu.TeardownTest()(
++¿R&"Calculator.Calcu.TheUntitledTest()(
+.¡R)%Calculator.Calcu.IsElementPresent(By)(
+*¬R%!Calculator.Calcu.IsAlertPresent()(
+3√R.*Calculator.Calcu.CloseAlertAndGetItsText()(
+*ƒR%!Calculator.Calculator.SetupTest()(
+-≈R($Calculator.Calculator.TeardownTest()(
+0∆R+'Calculator.Calculator.TheUntitledTest()(
+3«R.*Calculator.Calculator.IsElementPresent(By)(
+/»R*&Calculator.Calculator.IsAlertPresent()(
+8…R3/Calculator.Calculator.CloseAlertAndGetItsText()(
+, R'#Calculator.CalculatorUI.SetupTest()(
+/ÀR*&Calculator.CalculatorUI.TeardownTest()(
+2ÃR-)Calculator.CalculatorUI.TheUntitledTest()(
+5ÕR0,Calculator.CalculatorUI.IsElementPresent(By)(
+1ŒR,(Calculator.CalculatorUI.IsAlertPresent()(
+:œR51Calculator.CalculatorUI.CloseAlertAndGetItsText()(
+0–R+'Calculator.CalculatorUITest.SetupTest()(
+3—R.*Calculator.CalculatorUITest.TeardownTest()(
+6“R1-Calculator.CalculatorUITest.TheUntitledTest()(
+9”R40Calculator.CalculatorUITest.IsElementPresent(By)(
+5‘R0,Calculator.CalculatorUITest.IsAlertPresent()(
+>’R95Calculator.CalculatorUITest.CloseAlertAndGetItsText()(
+?÷R:6Calculator.CalculatorUITests.CloseAlertAndGetItsText()(
+6◊R1-Calculator.CalculatorUITests.IsAlertPresent()(
+:ÿR51Calculator.CalculatorUITests.IsElementPresent(By)(
+4ŸR/+Calculator.CalculatorUITests.TeardownTest()(
+1⁄R,(Calculator.CalculatorUITests.SetupTest()(
+A€R<8CalculatorIU.CalculatorUITests.CloseAlertAndGetItsText()(
+8‹R3/CalculatorIU.CalculatorUITests.IsAlertPresent()(
+<›R73CalculatorIU.CalculatorUITests.IsElementPresent(By)(
+6ﬁR1-CalculatorIU.CalculatorUITests.TeardownTest()(
+3ﬂR.*CalculatorIU.CalculatorUITests.SetupTest()(
+A‡R<8CalculatorUI.CalculatorUITests.CloseAlertAndGetItsText()(
+8·R3/CalculatorUI.CalculatorUITests.IsAlertPresent()(
+<‚R73CalculatorUI.CalculatorUITests.IsElementPresent(By)(
+6„R1-CalculatorUI.CalculatorUITests.TeardownTest()(
+3‰R.*CalculatorUI.CalculatorUITests.SetupTest()(
+HÂRCõ°ãÎÅπÉÈ5CalculatorUITests.CalculatorUITests.TheUntitledTest()(
+FÊRA=CalculatorUITests.CalculatorUITests.CloseAlertAndGetItsText()(
+=ÁR84CalculatorUITests.CalculatorUITests.IsAlertPresent()(
+AËR<8CalculatorUITests.CalculatorUITests.IsElementPresent(By)(
+;ÈR62CalculatorUITests.CalculatorUITests.TeardownTest()(
+8ÍR3/CalculatorUITests.CalculatorUITests.SetupTest()(
+2ÎR-)–°—Ñ–¥.Untitled.CloseAlertAndGetItsText()(
+)ÏR$ –°—Ñ–¥.Untitled.IsAlertPresent()(
+-ÌR($–°—Ñ–¥.Untitled.IsElementPresent(By)(
+'ÓR"–°—Ñ–¥.Untitled.TeardownTest()(
+$ÔR–°—Ñ–¥.Untitled.SetupTest()(
+6R1-–°—Ñ–¥—Å–≥.Untitled.CloseAlertAndGetItsText()(
+-ÒR($–°—Ñ–¥—Å–≥.Untitled.IsAlertPresent()(
+1ÚR,(–°—Ñ–¥—Å–≥.Untitled.IsElementPresent(By)(
++ÛR&"–°—Ñ–¥—Å–≥.Untitled.TeardownTest()(
+(ÙR#–°—Ñ–¥—Å–≥.Untitled.SetupTest()(
+:ıR51–°—Ñ–¥—Å–≥–¥—Ñ.Untitled.CloseAlertAndGetItsText()(
+1ˆR,(–°—Ñ–¥—Å–≥–¥—Ñ.Untitled.IsAlertPresent()(
+5˜R0,–°—Ñ–¥—Å–≥–¥—Ñ.Untitled.IsElementPresent(By)(
+/¯R*&–°—Ñ–¥—Å–≥–¥—Ñ.Untitled.TeardownTest()(
+,˘R'#–°—Ñ–¥—Å–≥–¥—Ñ.Untitled.SetupTest()(
+@˙R;7–°—Ñ–¥—Å–≥–¥—Ñ–µ—â–∫.Untitled.CloseAlertAndGetItsText()(
+7˚R2.–°—Ñ–¥—Å–≥–¥—Ñ–µ—â–∫.Untitled.IsAlertPresent()(
+;¸R62–°—Ñ–¥—Å–≥–¥—Ñ–µ—â–∫.Untitled.IsElementPresent(By)(
+5˝R0,–°—Ñ–¥—Å–≥–¥—Ñ–µ—â–∫.Untitled.TeardownTest()(
+2˛R-)–°—Ñ–¥—Å–≥–¥—Ñ–µ—â–∫.Untitled.SetupTest()(
+1ˇR,(Calcu.Untitled.CloseAlertAndGetItsText()(
+(ÄR#Calcu.Untitled.IsAlertPresent()(
+,ÅR'#Calcu.Untitled.IsElementPresent(By)(
+&ÇR!Calcu.Untitled.TeardownTest()(
+#ÉRCalcu.Untitled.SetupTest()(
+AÑR<Ã¬¢∫⁄πÉÈ.CalculatorUITests.CalculatorUITests.SummTest()(
+QÖRL¥ì≥–„πÉÈ>CalculatorUITests.CalculatorUITests.multiplicationTest_error()(
+KÜRFΩ€œÒ‚πÉÈ8CalculatorUITests.CalculatorUITests.multiplicationTest()(Ke:\inna\courses\inna\–∑–∞–Ω—è—Ç–∏–µ7\calculatoruitests\calculatoruitests.csìáRç
+µàRØPâRKE:\Inna\courses\inna\–ó–∞–Ω—è—Ç–∏–µ7\CalculatorUITests\CalculatorUITests.cs6CalculatorUITests.CalculatorUITests.multiplicationTest (BäRCalculatorUITests.csprojh
+SãRNâ<CalculatorUITests.CalculatorUITests.multiplicationTest_error (Bäh

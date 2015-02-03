@@ -1,0 +1,5 @@
+E:\Inna\courses\inna\Занятие7\Bank\bin\Debug\Bank.dll
+E:\Inna\courses\inna\Занятие7\Bank\bin\Debug\Bank.pdb
+E:\Inna\courses\inna\Занятие7\Bank\obj\Debug\Bank.dll
+E:\Inna\courses\inna\Занятие7\Bank\obj\Debug\Bank.pdb
+E:\Inna\courses\inna\Занятие7\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
