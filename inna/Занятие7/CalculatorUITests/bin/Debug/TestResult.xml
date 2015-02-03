@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="E:\Inna\courses\inna\Занятие7\CalculatorUITests\bin\Debug\CalculatorUITests.dll" total="2" errors="0" failures="1" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-02-03" time="13:42:05">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8009" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.4\bin" machine-name="ACER-PC" user="user" user-domain="ACER-PC" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="E:\Inna\courses\inna\Занятие7\CalculatorUITests\bin\Debug\CalculatorUITests.dll" executed="True" result="Failure" success="False" time="34.362" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="CalculatorUITests" executed="True" result="Failure" success="False" time="34.325" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="CalculatorUITests" executed="True" result="Failure" success="False" time="34.304" asserts="0">
+            <results>
+              <test-case name="CalculatorUITests.CalculatorUITests.multiplicationTest" executed="True" result="Success" success="True" time="18.171" asserts="2" />
+              <test-case name="CalculatorUITests.CalculatorUITests.multiplicationTest_error" executed="True" result="Failure" success="False" time="16.091" asserts="2">
+                <failure>
+                  <message><![CDATA[  7x2 isn't 0, but should be by test design
+  Expected string length 1 but was 2. Strings differ at index 0.
+  Expected: "0"
+  But was:  "14"
+  -----------^
+]]></message>
+                  <stack-trace><![CDATA[at CalculatorUITests.CalculatorUITests.multiplicationTest_error() in e:\Inna\courses\inna\Занятие7\CalculatorUITests\CalculatorUITests.cs:line 71
+]]></stack-trace>
+                </failure>
+              </test-case>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
