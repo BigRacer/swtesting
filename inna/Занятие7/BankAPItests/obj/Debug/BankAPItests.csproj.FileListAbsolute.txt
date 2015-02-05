@@ -7,5 +7,3 @@ E:\Inna\courses\inna\Занятие7\BankAPItests\bin\Debug\nunit.framework.xml
 E:\Inna\courses\inna\Занятие7\BankAPItests\obj\Debug\BankAPItests.csprojResolveAssemblyReference.cache
 E:\Inna\courses\inna\Занятие7\BankAPItests\obj\Debug\BankAPItests.dll
 E:\Inna\courses\inna\Занятие7\BankAPItests\obj\Debug\BankAPItests.pdb
-E:\Inna\courses\inna\Занятие7\BankAPItests\bin\Debug\BankAPItests.dll.CodeAnalysisLog.xml
-E:\Inna\courses\inna\Занятие7\BankAPItests\bin\Debug\BankAPItests.dll.lastcodeanalysissucceeded
