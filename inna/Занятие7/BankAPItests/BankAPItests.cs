@@ -13,6 +13,7 @@ namespace Bank
       private double _expected;
       private double _beginningBalance;
       private double _actual;
+      private double _creditAmount;
 
       [SetUp]
       public void Init()
@@ -48,6 +49,20 @@ namespace Bank
 
         //assert
         Assert.AreEqual(_expected, _actual, 0.001, "Account not debited correctly");
+      }
+      [Test]
+      // Мой дописанный тест, по зачислению денег на счет
+      public void Credit_WithValidAmount_UpdatesBalance()
+      {
+        _expected = 24.21;
+
+        //act
+        _creditAmount = 12.22;
+        _account.Credit(_creditAmount);
+        _actual = _account.Balance;
+
+        //assert
+        Assert.AreEqual(_expected, _actual, 0.001, "Account not credited correctly");
       }
     }
 }

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
-  <TopNode>[0-1003]E:\Inna\courses\inna\Занятие7\BankAPItests\bin\Debug\BankAPItests.dll</TopNode>
-  <SelectedNode>[0-1004]Bank</SelectedNode>
+  <TopNode>[0-1004]E:\Inna\courses\inna\Занятие7\BankAPItests\bin\Debug\BankAPItests.dll</TopNode>
+  <SelectedNode>[0-1003]Bank.BankAPItests.Credit_WithValidAmount_UpdatesBalance</SelectedNode>
   <ExcludeCategories>false</ExcludeCategories>
   <Nodes>
-    <Node UniqueName="[0-1003]E:\Inna\courses\inna\Занятие7\BankAPItests\bin\Debug\BankAPItests.dll" Expanded="true" />
-    <Node UniqueName="[0-1004]Bank" Expanded="true" />
+    <Node UniqueName="[0-1004]E:\Inna\courses\inna\Занятие7\BankAPItests\bin\Debug\BankAPItests.dll" Expanded="true" />
+    <Node UniqueName="[0-1005]Bank" Expanded="true" />
     <Node UniqueName="[0-1000]Bank.BankAPItests" Expanded="true" />
   </Nodes>
 </VisualState>
