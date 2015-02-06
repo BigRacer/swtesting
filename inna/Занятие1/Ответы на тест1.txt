@@ -2,4 +2,4 @@
 2 -> D
 3 -> C
 4 -> D
-5 -> No, you cannot se the sun at midnight
+5 -> No, you cannot see the sun at midnight
