@@ -1,5 +1,5 @@
-ìhRéh
-√6Ræ6
+©iR§i
+á6RÇ6
 (R$"SeleniumTests.Untitled.SetupTest()
 +R'%SeleniumTests.Untitled.TeardownTest()
 .R*(SeleniumTests.Untitled.TheUntitledTest()
@@ -133,14 +133,14 @@ $ÇRCalcu.Untitled.TeardownTest()
 *ÑR%#Calcu.Untitled.IsElementPresent(By)
 &ÖR!Calcu.Untitled.IsAlertPresent()
 /ÜR*(Calcu.Untitled.CloseAlertAndGetItsText()
-;áR6©§®¶ïπÉÈ(CalculatorUITests.CalculatorUITests.Su()(
-=àR8È≤õ©ïπÉÈ*CalculatorUITests.CalculatorUITests.Summ()(
+1áR,(CalculatorUITests.CalculatorUITests.Su()(
+3àR.*CalculatorUITests.CalculatorUITests.Summ()(
 7âR2.CalculatorUITests.CalculatorUITests.SummTest()(
-KäRF≈”¿±›πÉÈ8CalculatorUITests.CalculatorUITests.multiplicationTest()(
-LãRGÊÁ≈•ﬁπÉÈ9CalculatorUITests.CalculatorUITests.multiplicationTest_()(
-VåRQ¯ØπùﬁπÉÈCCalculatorUITests.CalculatorUITests.multiplicationTest_—É–∫–∫—â–∫()(
-QçRLø∏‘ØﬁπÉÈ>CalculatorUITests.CalculatorUITests.multiplicationTest_error()(@e:\inna\courses\inna\–∑–∞–Ω—è—Ç–∏–µ7\calculatoruitests\class1.cs
-≈1éRø1
+AäR<8CalculatorUITests.CalculatorUITests.multiplicationTest()(
+BãR=9CalculatorUITests.CalculatorUITests.multiplicationTest_()(
+LåRGCCalculatorUITests.CalculatorUITests.multiplicationTest_—É–∫–∫—â–∫()(
+GçRB>CalculatorUITests.CalculatorUITests.multiplicationTest_error()(@e:\inna\courses\inna\–∑–∞–Ω—è—Ç–∏–µ7\calculatoruitests\class1.cs
+ó3éRë3
 +èR&"SeleniumTests.Untitled.SetupTest()(
 .êR)%SeleniumTests.Untitled.TeardownTest()(
 4ëR/+SeleniumTests.Untitled.IsElementPresent(By)(
@@ -227,7 +227,7 @@ A‡R<8CalculatorUI.CalculatorUITests.CloseAlertAndGetItsText()(
 <‚R73CalculatorUI.CalculatorUITests.IsElementPresent(By)(
 6„R1-CalculatorUI.CalculatorUITests.TeardownTest()(
 3‰R.*CalculatorUI.CalculatorUITests.SetupTest()(
-HÂRCõ°ãÎÅπÉÈ5CalculatorUITests.CalculatorUITests.TheUntitledTest()(
+>ÂR95CalculatorUITests.CalculatorUITests.TheUntitledTest()(
 FÊRA=CalculatorUITests.CalculatorUITests.CloseAlertAndGetItsText()(
 =ÁR84CalculatorUITests.CalculatorUITests.IsAlertPresent()(
 AËR<8CalculatorUITests.CalculatorUITests.IsElementPresent(By)(
@@ -258,8 +258,11 @@ $ÔR–°—Ñ–¥.Untitled.SetupTest()(
 ,ÅR'#Calcu.Untitled.IsElementPresent(By)(
 &ÇR!Calcu.Untitled.TeardownTest()(
 #ÉRCalcu.Untitled.SetupTest()(
-AÑR<Ã¬¢∫⁄πÉÈ.CalculatorUITests.CalculatorUITests.SummTest()(
-QÖRL¥ì≥–„πÉÈ>CalculatorUITests.CalculatorUITests.multiplicationTest_error()(
-KÜRFΩ€œÒ‚πÉÈ8CalculatorUITests.CalculatorUITests.multiplicationTest()(Ke:\inna\courses\inna\–∑–∞–Ω—è—Ç–∏–µ7\calculatoruitests\calculatoruitests.csìáRç
-µàRØPâRKE:\Inna\courses\inna\–ó–∞–Ω—è—Ç–∏–µ7\CalculatorUITests\CalculatorUITests.cs6CalculatorUITests.CalculatorUITests.multiplicationTest (BäRCalculatorUITests.csprojh
-SãRNâ<CalculatorUITests.CalculatorUITests.multiplicationTest_error (Bäh
+7ÑR2.CalculatorUITests.CalculatorUITests.SummTest()(
+GÖRB>CalculatorUITests.CalculatorUITests.multiplicationTest_error()(
+AÜR<8CalculatorUITests.CalculatorUITests.multiplicationTest()(
+1áR,(CalculatorUITests.CalculatorUITests.Su()(
+3àR.*CalculatorUITests.CalculatorUITests.Summ()(
+BâR=9CalculatorUITests.CalculatorUITests.multiplicationTest_()(
+LäRGCCalculatorUITests.CalculatorUITests.multiplicationTest_—É–∫–∫—â–∫()(Ke:\inna\courses\inna\–∑–∞–Ω—è—Ç–∏–µ7\calculatoruitests\calculatoruitests.csæãR∏
+µåRØPçRKE:\Inna\courses\inna\–ó–∞–Ω—è—Ç–∏–µ7\CalculatorUITests\CalculatorUITests.cs6CalculatorUITests.CalculatorUITests.multiplicationTest (BéRCalculatorUITests.csprojh
