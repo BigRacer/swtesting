@@ -1,10 +1,10 @@
-﻿using System;
+using System;
 using System.Text;
 //using System.Text.RegularExpressions;
 //using System.Threading;
 using NUnit.Framework;
 using OpenQA.Selenium;
-using OpenQA.Selenium.Firefox;
+//using OpenQA.Selenium.Firefox;
 using OpenQA.Selenium.IE;
 //using OpenQA.Selenium.Support.UI;
 
@@ -44,7 +44,7 @@ namespace CalculatorUITests
     [Test]
     public void multiplicationTest()
     {
-      /*string _expected = "14";
+      string _expected = "14";
       driver.Navigate().GoToUrl(baseURL + "/");
       driver.FindElement(By.CssSelector("html body div#content div.center_column div#calculator_online table.korpus tbody tr td div table tbody tr td div div#nmr_7.kn_cif table tbody tr td")).Click();
       driver.FindElement(By.CssSelector("html body div#content div.center_column div#calculator_online table.korpus tbody tr td div table tbody tr td div div#nmr_16.kn_des table tbody tr td")).Click();
@@ -53,19 +53,10 @@ namespace CalculatorUITests
       
       //assert
       string _actual = driver.FindElement(By.CssSelector("html body div#content div.center_column div#calculator_online table.korpus tbody tr td.display div#display")).Text;
-      Assert.AreEqual(_expected, _actual, "7x2 isn't 14, but should be");*/
-      string _expected = "14";
-      driver.Navigate().GoToUrl(baseURL + "/");
-      driver.FindElement(By.CssSelector("#nmr_7 > table > tbody > tr > td")).Click();
-      driver.FindElement(By.CssSelector("#nmr_16 > table > tbody > tr > td")).Click();
-      driver.FindElement(By.CssSelector("#nmr_20 > table > tbody > tr > td")).Click();
-      driver.FindElement(By.CssSelector("#nmr_23 > table > tbody > tr > td")).Click();
-      //driver.FindElement(By.)
-      string _actual = driver.FindElement(By.CssSelector("html body div#content div.center_column div#calculator_online table.korpus tbody tr td.display div#display")).Text;
       Assert.AreEqual(_expected, _actual, "7x2 isn't 14, but should be");
     }
 
-   /* [Test]
+    [Test]
 
     public void multiplicationTest_error()
     {
@@ -80,7 +71,7 @@ namespace CalculatorUITests
       string _actual = driver.FindElement(By.CssSelector("html body div#content div.center_column div#calculator_online table.korpus tbody tr td.display div#display")).Text;
       Assert.AreEqual(_expected, _actual, "7x2 isn't 14, but should be");
     }
-    */
+    
     private bool IsElementPresent(By by)
     {
       try
