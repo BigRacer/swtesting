@@ -1,24 +1,0 @@
-�R�
-�R�
-'R#!Bank.BankAPItests.TransferFunds()
-@R<8Bank.BankAPItests.Debit_WithValidAmount_UpdatesBalance()(
-?R;9Bank.BankAPItests.Debit_WithValidAmount_UpdatesBalance_()
-FRB>Bank.BankAPItests.Debit_WithValidAmount_UpdatesBalance_error()(
-RBank.BankAPItests.Init();e:\inna\courses\inna\занятие7\bankapitests\class1.cs
-�R�
-)	R%!Bank.BankAPItests.TransferFunds()(
-F
-RB>Bank.BankAPItests.Debit_WithValidAmount_UpdatesBalance_error()(
-@R<8Bank.BankAPItests.Debit_WithValidAmount_UpdatesBalance()(
- RBank.BankAPItests.Init()(
-AR=9Bank.BankAPItests.Credit_WithValidAmount_UpdatesBalance()(
-AR=9Bank.BankAPItests.Debit_WithValidAmount_UpdatesBalance_()(
-RAPI.BankAPItests.Init()(
-?R;7API.BankAPItests.Debit_WithValidAmount_UpdatesBalance()(
-ERA=API.BankAPItests.Debit_WithValidAmount_UpdatesBalance_error()(
-#RAPIbank.BankAPItests.Init()(
-CR?;APIbank.BankAPItests.Debit_WithValidAmount_UpdatesBalance()(
-IREAAPIbank.BankAPItests.Debit_WithValidAmount_UpdatesBalance_error()(Ae:\inna\courses\inna\занятие7\bankapitests\bankapitests.cs�R�
-�R�ERAE:\Inna\courses\inna\Занятие7\BankAPItests\BankAPItests.cs6Bank.BankAPItests.Debit_WithValidAmount_UpdatesBalance (BRBankAPItests.csprojh
-PRL<Bank.BankAPItests.Debit_WithValidAmount_UpdatesBalance_error (Bh
-KRG7Bank.BankAPItests.Credit_WithValidAmount_UpdatesBalance (Bh
